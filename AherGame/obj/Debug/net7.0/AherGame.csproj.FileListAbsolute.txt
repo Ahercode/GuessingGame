@@ -1,0 +1,15 @@
+/Users/philip/RiderProjects/AherGame/AherGame/bin/Debug/net7.0/AherGame
+/Users/philip/RiderProjects/AherGame/AherGame/bin/Debug/net7.0/AherGame.deps.json
+/Users/philip/RiderProjects/AherGame/AherGame/bin/Debug/net7.0/AherGame.runtimeconfig.json
+/Users/philip/RiderProjects/AherGame/AherGame/bin/Debug/net7.0/AherGame.dll
+/Users/philip/RiderProjects/AherGame/AherGame/bin/Debug/net7.0/AherGame.pdb
+/Users/philip/RiderProjects/AherGame/AherGame/obj/Debug/net7.0/AherGame.csproj.AssemblyReference.cache
+/Users/philip/RiderProjects/AherGame/AherGame/obj/Debug/net7.0/AherGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/philip/RiderProjects/AherGame/AherGame/obj/Debug/net7.0/AherGame.AssemblyInfoInputs.cache
+/Users/philip/RiderProjects/AherGame/AherGame/obj/Debug/net7.0/AherGame.AssemblyInfo.cs
+/Users/philip/RiderProjects/AherGame/AherGame/obj/Debug/net7.0/AherGame.csproj.CoreCompileInputs.cache
+/Users/philip/RiderProjects/AherGame/AherGame/obj/Debug/net7.0/AherGame.dll
+/Users/philip/RiderProjects/AherGame/AherGame/obj/Debug/net7.0/refint/AherGame.dll
+/Users/philip/RiderProjects/AherGame/AherGame/obj/Debug/net7.0/AherGame.pdb
+/Users/philip/RiderProjects/AherGame/AherGame/obj/Debug/net7.0/AherGame.genruntimeconfig.cache
+/Users/philip/RiderProjects/AherGame/AherGame/obj/Debug/net7.0/ref/AherGame.dll
